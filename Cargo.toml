@@ -1,5 +1,5 @@
 [package]
-name = "console_image_renderer"
+name = "console-image-renderer"
 version = "0.1.0"
 edition = "2021"
 

@@ -86,7 +86,7 @@ fn render_image(args: Vec<String>) {
 fn help() {
     println!("\n\x1b[37;1mRenders an image in the console as ASCII characters\x1b[0m\n");
     println!("Main usage:");
-    println!("consoleImageRender.exe [IMAGE] [WIDTH] [HEIGHT]");
+    println!("console-image-renderer.exe [IMAGE] [WIDTH] [HEIGHT]");
     println!();
     println!("Available arguments:");
     println!("--help | -h : print this message")
